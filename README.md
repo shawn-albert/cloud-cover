@@ -61,4 +61,3 @@ The chatbot application is structured to facilitate easy development, testing, a
 ## Contributing Authors
 
 - Shawn C. Albert
-```
